@@ -1,0 +1,1137 @@
+{
+	"A1": {
+		"DestEast": [
+			1,
+			0
+		],
+		"DestNorth": [
+			0,
+			2
+		],
+		"DestSouth": [
+			0,
+			1
+		],
+		"DestWest": [
+			2,
+			0
+		],
+		"animals": [
+			"Anglerfish",
+			"Bear",
+			"CaveBat",
+			"Chicken",
+			"Cow",
+			"Crab",
+			"Crow",
+			"Draco",
+			"Eel",
+			"Gorgon",
+			"Horse",
+			"Jellyfish",
+			"Leatherwing",
+			"Lion",
+			"Marlin",
+			"Penguin",
+			"Rabbit",
+			"Razortooth",
+			"RockElemental",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"ShieldHorn",
+			"ShipNPC Brig",
+			"ShipNPC Galleon",
+			"ShipNPC Schooner",
+			"Spider",
+			"Squid",
+			"Wolf",
+			"Yeti",
+			null
+		],
+		"biomes": [
+			"Polar",
+			"Polar Ocean Water",
+			"Polar At Land",
+			"Eastern Tundra"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Polar",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Agate",
+			"Arctic Raspberry",
+			"Bark",
+			"Basalt",
+			"Brain Coral",
+			"Calcite",
+			"Chalcedony",
+			"Chert",
+			"Cobalt",
+			"Crude Oil",
+			"Fire Coral",
+			"FreshWater",
+			"Geode",
+			"Granite",
+			"Iridium",
+			"Iron",
+			"Lignite",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Naphtha",
+			"Opal",
+			"Pine",
+			"Pink Salt",
+			"Potato Seed",
+			"Quartz",
+			"Resin",
+			"Roots",
+			"Sandstone",
+			"Seaweed",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Tin",
+			"Wild Potato"
+		],
+		"serverCustomDatas1": ",RainChanceForCyclones,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp,NPCShipSpawnIntervalMult,DisableFog ,DisableRain,ChanceForCold,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp",
+		"serverCustomDatas2": ",0,2,2,0.5,0.21,1,1,0,2,2,0.5",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"A2": {
+		"DestEast": [
+			1,
+			1
+		],
+		"DestNorth": [
+			0,
+			0
+		],
+		"DestSouth": [
+			0,
+			2
+		],
+		"DestWest": [
+			2,
+			1
+		],
+		"animals": [
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Sheep",
+			"Wolf"
+		],
+		"biomes": [
+			"Western Tundra",
+			"Western Temperate",
+			"Tundra Ocean Water",
+			"Tundra At Land",
+			"Eastern Tundra"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Tundra",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Arctic Raspberry",
+			"Ash",
+			"Bark",
+			"Basalt",
+			"Bilberry",
+			"Calcite",
+			"Cedar",
+			"Chalcedony",
+			"Cotton",
+			"Crude Oil",
+			"Edible Greens Seed",
+			"Fir",
+			"Garlic",
+			"Geode",
+			"Granite",
+			"Iron",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Pine",
+			"Pink Salt",
+			"Potato Seed",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Roots",
+			"Rosemary",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Sulfur",
+			"Tin",
+			"Wild Greens",
+			"Wild Potato",
+			"Wild Turnip"
+		],
+		"serverCustomDatas1": ",RainChanceForCyclones,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp,NPCShipSpawnIntervalMult,RainChanceForCyclones,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp,NPCShipSpawnIntervalMult",
+		"serverCustomDatas2": ",0,2,2,0.5,0.21,0,2,2,0.5,0.21",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"A3": {
+		"DestEast": [
+			1,
+			2
+		],
+		"DestNorth": [
+			0,
+			1
+		],
+		"DestSouth": [
+			0,
+			0
+		],
+		"DestWest": [
+			2,
+			2
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Boss FireElemental",
+			"Cat",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crab",
+			"Crocodile",
+			"Eel",
+			"Elephant",
+			"FireElemental",
+			"Gorgon",
+			"Jellyfish",
+			"Leatherwing",
+			"Marlin",
+			"Monkey",
+			"Parrot",
+			"Rattlesnake",
+			"Razortooth",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"ShieldHorn",
+			"Spider",
+			"Squid",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf",
+			null
+		],
+		"biomes": [
+			"Western Tropics",
+			"Temperate Ocean Water",
+			"Temperate At Land",
+			"Western Tropics (Freeport)"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Temperate",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Agate",
+			"Blackberry",
+			"Brain Coral",
+			"Cobalt",
+			"Edible Greens",
+			"Fibers",
+			"Fire Coral",
+			"Flint",
+			"FreshWater",
+			"Graphite",
+			"Iridium",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Radiolarite",
+			"Roots",
+			"Sea Grapes",
+			"Seaweed",
+			"Silver",
+			"Stone",
+			"Straw",
+			"Sugarcane",
+			"Thatch",
+			"Turmeric",
+			"Wood"
+		],
+		"serverCustomDatas1": ",NPCShipSpawnIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,RainChanceForCyclones,NPCShipSpawnIntervalMultiplier",
+		"serverCustomDatas2": ",0.21,0,0.5,2,2,0,0,0.5,2,2,0,0.21",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B1": {
+		"DestEast": [
+			2,
+			0
+		],
+		"DestNorth": [
+			1,
+			2
+		],
+		"DestSouth": [
+			1,
+			1
+		],
+		"DestWest": [
+			0,
+			0
+		],
+		"animals": [
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Sheep",
+			"Wolf"
+		],
+		"biomes": [
+			"Tundra Ocean Water",
+			"Tundra At Land",
+			"Central Tundra",
+			"Eastern Tundra"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Tundra",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Arctic Raspberry",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Bilberry",
+			"Blackberry",
+			"Cactus",
+			"Cactus Seed",
+			"Calcite",
+			"Celery",
+			"Chalcedony",
+			"Fir",
+			"FreshWater",
+			"Garlic",
+			"Geode",
+			"Granite",
+			"Iridium",
+			"Iron",
+			"Kala Namak",
+			"Licorice",
+			"Lignite",
+			"Limestone",
+			"Lingonberry",
+			"Maps",
+			"Marble",
+			"Mint",
+			"Nitre",
+			"Onion Seed",
+			"Opal",
+			"Oregano",
+			"Peat",
+			"Pine",
+			"Poplar",
+			"Potato Seed",
+			"Quartz",
+			"Resin",
+			"Roots",
+			"Rushes",
+			"Silk",
+			"Silver",
+			"Slate",
+			"Straw",
+			"Syrup",
+			"Thyme",
+			"Tin",
+			"Turnip Seed",
+			"Twigs",
+			"Wild Cactus",
+			"Wild Onion",
+			"Wild Potato",
+			"Wild Turnip",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",RainChanceForCyclones,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp,NPCShipSpawnIntervalMult,RainChanceForCyclones,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp,NPCShipSpawnIntervalMult",
+		"serverCustomDatas2": ",0,2,2,0.5,0.21,0,2,2,0.5,0.21",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B2": {
+		"DestEast": [
+			2,
+			1
+		],
+		"DestNorth": [
+			1,
+			0
+		],
+		"DestSouth": [
+			1,
+			2
+		],
+		"DestWest": [
+			0,
+			1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Bee",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Seagull",
+			"Sheep",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Wolf"
+		],
+		"biomes": [
+			"Tropical Ocean Water",
+			"Tropical At Land",
+			"Western Temperate",
+			"Eastern Temperate"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Navy Waters",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Ash",
+			"Bamboo",
+			"Bark",
+			"Basalt",
+			"Blackberry",
+			"Carrot Seed",
+			"Chamomile",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Hemp",
+			"Iron",
+			"Licorice",
+			"Limestone",
+			"Maps",
+			"Mint",
+			"Nitre",
+			"Onion Seed",
+			"Opal",
+			"Oregano",
+			"Parsley",
+			"Pepper Seed",
+			"Pine",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Schisandra",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Syrup",
+			"Twigs",
+			"Wild Carrot",
+			"Wild Onion",
+			"Wild Pepper"
+		],
+		"serverCustomDatas1": ",NPCShipSpawnIntervalMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,ChanceForCold",
+		"serverCustomDatas2": ",0.21,0.5,2,2,0",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"B3": {
+		"DestEast": [
+			2,
+			2
+		],
+		"DestNorth": [
+			1,
+			1
+		],
+		"DestSouth": [
+			1,
+			0
+		],
+		"DestWest": [
+			0,
+			2
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Monkey",
+			"Parrot",
+			"Pig",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Equatorial Ocean Water",
+			"Equator",
+			"Equatorial At Land"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Equatorial",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Aloe",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Calcite",
+			"Chert",
+			"Chickpea Seed",
+			"Cobalt",
+			"Cocoa",
+			"Coconut",
+			"Coquina",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Gum",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Oak",
+			"Olives",
+			"Quartz",
+			"Resin",
+			"Rosemary",
+			"Sandstone",
+			"Sea Grapes",
+			"Sea Salt",
+			"Slate",
+			"Straw",
+			"Sulfur",
+			"Thyme",
+			"Twigs",
+			"Wild Chick Peas"
+		],
+		"serverCustomDatas1": ",NPCShipSpawnIntervalMult,RainChanceForSnow,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,RainChanceForCyclones,NPCShipSpawnIntervalMult,RainChanceForSnow,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.21,0,0.5,2,2,0,0.21,0,0.5,2,2,0",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C1": {
+		"DestEast": [
+			0,
+			0
+		],
+		"DestNorth": [
+			2,
+			2
+		],
+		"DestSouth": [
+			2,
+			1
+		],
+		"DestWest": [
+			1,
+			0
+		],
+		"animals": [
+			"Anglerfish",
+			"Ant",
+			"Bear",
+			"Bee",
+			"Boss RockElemental",
+			"Catfish",
+			"CaveBat",
+			"Chicken",
+			"Cobra",
+			"Cod",
+			"Cow",
+			"Crab",
+			"Crow",
+			"Cyclops",
+			"Eel",
+			"Horse",
+			"Jellyfish",
+			"Marlin",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Razortooth",
+			"RockElemental",
+			"Scorpion",
+			"Seagull",
+			"Seahorse",
+			"Shark",
+			"Sheep",
+			"ShieldHorn",
+			"Spider",
+			"Squid",
+			"Wolf",
+			null
+		],
+		"biomes": [
+			"Western Temperate",
+			"Temperate At Land",
+			"Temperate Ocean Water"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Temperate",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Agate",
+			"Anthracite",
+			"Ash",
+			"Bark",
+			"Basalt",
+			"Brain Coral",
+			"Emerald",
+			"Fir",
+			"Fire Coral",
+			"FreshWater",
+			"Fronds",
+			"Geode",
+			"Granite",
+			"Hemp",
+			"Iridium",
+			"Iron",
+			"Jute",
+			"Limestone",
+			"Maps",
+			"Marble",
+			"Mineral Oil",
+			"Mint",
+			"Opal",
+			"Oregano",
+			"Parsley",
+			"Pepper Seed",
+			"Pine",
+			"Poplar",
+			"Quartz",
+			"Radiolarite",
+			"Resin",
+			"Roots",
+			"Sandstone",
+			"Sea Grapes",
+			"Seaweed",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Syrup",
+			"Twigs",
+			"Wild Pepper"
+		],
+		"serverCustomDatas1": ",NPCShipSpawnIntervalMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,ChanceForCold,RainChanceForSnow,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,RainChanceForCyclones,NPCShipSpawnIntervalMultiplier",
+		"serverCustomDatas2": ",0.21,0.5,2,2,0,0,0.5,2,2,0,0.21",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C2": {
+		"DestEast": [
+			0,
+			1
+		],
+		"DestNorth": [
+			2,
+			0
+		],
+		"DestSouth": [
+			2,
+			2
+		],
+		"DestWest": [
+			1,
+			1
+		],
+		"animals": [
+			"Ant",
+			"Bear",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Grand Tortugar",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Ostrich",
+			"Parrot",
+			"Pig",
+			"Rabbit",
+			"Rattlesnake",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Spider",
+			"Tiger",
+			"Turtle",
+			"Wolf"
+		],
+		"biomes": [
+			"Eastern Tropics",
+			"Western Tropics",
+			"Tropical At Land",
+			"Tropical Ocean Water",
+			"Equator"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Tropical",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Acai",
+			"Acerola",
+			"Aloe",
+			"Ash",
+			"Bark",
+			"Basalt",
+			"Basil",
+			"Cedar",
+			"Chalcedony",
+			"Cilantro",
+			"Cocoa",
+			"Coconut",
+			"Copper",
+			"Elderberry",
+			"Fir",
+			"FreshWater",
+			"Fronds",
+			"Garnet",
+			"Geode",
+			"Granite",
+			"Graphite",
+			"Gum",
+			"Hemp",
+			"Herkimer",
+			"Honey",
+			"Iron",
+			"Jute",
+			"Lignite",
+			"Lime",
+			"Limestone",
+			"Maps",
+			"Nitre",
+			"Oak",
+			"Quartz",
+			"Reeds",
+			"Resin",
+			"Rock Salt",
+			"Rushes",
+			"Sea Grapes",
+			"Shale Oil",
+			"Silk",
+			"Slate",
+			"Straw",
+			"Sugars",
+			"Turmeric",
+			"Twigs",
+			"Wild Beans",
+			"Wild Rice"
+		],
+		"serverCustomDatas1": ",NPCShipSpawnIntervalMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,ChanceForCold,NPCShipSpawnIntervalMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,SunkenTreasureQualityMultiplier,ChanceForCold",
+		"serverCustomDatas2": ",0.21,0.5,2,2,0,0.21,0.5,2,2,0",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				378
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	},
+	"C3": {
+		"DestEast": [
+			0,
+			2
+		],
+		"DestNorth": [
+			2,
+			1
+		],
+		"DestSouth": [
+			2,
+			0
+		],
+		"DestWest": [
+			1,
+			2
+		],
+		"animals": [
+			"Ant",
+			"Catfish",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crocodile",
+			"Crow",
+			"Elephant",
+			"Giraffe",
+			"Horse",
+			"Lion",
+			"Monkey",
+			"Olfend",
+			"Ostrich",
+			"Rabbit",
+			"Rattlesnake",
+			"Rhino",
+			"Scorpion",
+			"Seagull",
+			"Sheep",
+			"Turtle",
+			"Vulture",
+			"Wolf"
+		],
+		"biomes": [
+			"Central High Desert",
+			"Central Low Desert",
+			"Desert At Land",
+			"Desert Ocean Water"
+		],
+		"flotsam": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				360,
+				57000,
+				1
+			]
+		},
+		"forceServerRules": 3,
+		"name": "SRP Desert",
+		"region": "Shipwreck RP",
+		"resources": [
+			"Ash",
+			"Bark",
+			"Basalt",
+			"Beet Seed",
+			"Bilberry",
+			"Cactus",
+			"Cactus Seed",
+			"Cedar",
+			"Chert",
+			"Chickpea Seed",
+			"Cilantro",
+			"Coconut",
+			"Coquina",
+			"Cotton",
+			"Elderberry",
+			"Fir",
+			"Flake Salt",
+			"FreshWater",
+			"Geode",
+			"Granite",
+			"Hemp",
+			"Herkimer",
+			"Honey",
+			"Iodine",
+			"Iron",
+			"Jute",
+			"Lignite",
+			"Limestone",
+			"Maize Seed",
+			"Maps",
+			"Nitre",
+			"Onion Seed",
+			"Oregano",
+			"Parsley",
+			"Pine",
+			"Poplar",
+			"Poppy",
+			"Resin",
+			"Roots",
+			"Rushes",
+			"Sandstone",
+			"Schisandra",
+			"Slate",
+			"Straw",
+			"Strawberry",
+			"Sugars",
+			"Tin",
+			"Twigs",
+			"Wild Beet",
+			"Wild Cactus",
+			"Wild Chick Peas",
+			"Wild Maize",
+			"Wild Onion",
+			"Yarrow"
+		],
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp,DisableFog,DisableRain,ChanceForCold,SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipDifficultyLerp",
+		"serverCustomDatas2": ",1,1,0,2,2,0.5,1,1,0,2,2,0.5",
+		"serverIslandPointsMultiplier": 1,
+		"sotd": {
+			"levelLerp": 0.5,
+			"levelMinOveride": 0,
+			"levelMultiplier": 1,
+			"levelOffset": 0,
+			"spawnLimits": [
+				37,
+				5000,
+				1800
+			]
+		},
+		"sunktreasure": {
+			"qualityMultiplier": 8,
+			"spawnLimits": [
+				20,
+				57000,
+				1
+			]
+		}
+	}
+}
